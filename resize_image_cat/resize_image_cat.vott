@@ -1,0 +1,165 @@
+{
+    "name": "resize_image_cat",
+    "securityToken": "resize_image_cat Token",
+    "sourceConnection": {
+        "name": "resize_image_cat",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDJmNGNmYTk3MjcyNzU4YzlmN2Y1OTQ5YzgyYzM1ZTZiYjQ0MTllNTMzYzg1NWNiMWI1ZDE5MDA1ZjEyMjdjNTI5MWI5NTc4YmY0YWU3Nzk5OWQ1MGVkNDFkMTk2YzlkNzA0NjBjZmIxMzJiZTcxYmZiZGI3YzAyNmQ0ZGYxMjciLCJpdiI6ImI4N2E1ODQ4YzRhZjNiYTg2MDY3MGY3ZWNhZjJlZWE4Y2ZkZTA5NDg2N2UzNDcyMSJ9"
+        },
+        "id": "hjbh_5d23"
+    },
+    "targetConnection": {
+        "name": "resize_image_cat",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDk1NjlhOWIwZWZmYTNmYmE3NWU3Yzg5YzI2OTU3NzBmMDczYjNhY2I5ODdmZjcyOGFhYjY2ZGFjNTlhMDBmYzIyMTNlYzI1NGE5YmZmMjZhYTM5ODA3NjdmMDMzMzhlYWNmMzM5MDVhMzdmODU1M2RkY2U4ZWMzYWU0ZDU4ZjgiLCJpdiI6IjM2NmQyMGFhNTk4NDVjNGFjNGUxNzhhYTY5NGVhNjkxNjc2Y2RlYzA1OWM5ZGI2OSJ9"
+        },
+        "id": "hjbh_5d23"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "cat",
+            "color": "#00FFFF"
+        }
+    ],
+    "id": "yqf_Jknaf",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZmNjM2ZkNGUxOWI1ZTQyOGI2MDUzZDE5NzM4ODRhMWJjYTQ5Yjg2MmY1Y2FiYzBmMzI1NzA5YmZiMDYxODBkYjM1ODU1MmFmMDA1ZmUzOTk4N2ViYWU0ZjU4NjhkMGM5MTIwNjg1NTJlYTlhYWU0NmM4YTQ0YTdmYjMyMjczNjgzNzUwNWJhMjczNjMwNTZjZmE0ODU4MjAxN2NmNWQyNyIsIml2IjoiNGQ0MDZmYTNhM2JkYjAwZDJjNDAyYjdlNmU3ZTc4ODFiYTdjMDMzMDhmZTY3ZDQ1In0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "ea42f651fc8dd39ab5c2e6109003dbf7",
+    "assets": {
+        "95e931f5b7bf3502d93ff1771e23f69e": {
+            "format": "jpg",
+            "id": "95e931f5b7bf3502d93ff1771e23f69e",
+            "name": "000001.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000001.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "412c48ce4431d15eb7d5a68929b5425e": {
+            "format": "jpg",
+            "id": "412c48ce4431d15eb7d5a68929b5425e",
+            "name": "000002.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000002.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75c7ebf36594b5a0ceb33d60a9b1cc54": {
+            "format": "jpg",
+            "id": "75c7ebf36594b5a0ceb33d60a9b1cc54",
+            "name": "000003.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000003.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2826ce0842bae9ec8d4c52357895ab25": {
+            "format": "jpg",
+            "id": "2826ce0842bae9ec8d4c52357895ab25",
+            "name": "000004.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000004.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c49c1e7611949a0db66e5883a641398": {
+            "format": "jpg",
+            "id": "8c49c1e7611949a0db66e5883a641398",
+            "name": "000005.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000005.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f8bd018818035541133dff0c6cbeb35": {
+            "format": "jpg",
+            "id": "0f8bd018818035541133dff0c6cbeb35",
+            "name": "000006.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000006.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b36c36c96a44738155ffabb203899d7": {
+            "format": "jpg",
+            "id": "6b36c36c96a44738155ffabb203899d7",
+            "name": "000007.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000007.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4241b6645dc4ec1376c05286b74b2174": {
+            "format": "jpg",
+            "id": "4241b6645dc4ec1376c05286b74b2174",
+            "name": "000008.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000008.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6549ce77f7d5d0f503e8153b8779088f": {
+            "format": "jpg",
+            "id": "6549ce77f7d5d0f503e8153b8779088f",
+            "name": "000009.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000009.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea42f651fc8dd39ab5c2e6109003dbf7": {
+            "format": "jpg",
+            "id": "ea42f651fc8dd39ab5c2e6109003dbf7",
+            "name": "000010.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_cat/000010.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

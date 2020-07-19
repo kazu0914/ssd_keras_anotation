@@ -1,0 +1,165 @@
+{
+    "name": "resize_image_dog",
+    "securityToken": "resize_image_dog Token",
+    "sourceConnection": {
+        "name": "resize_image_dog",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDMwNDQ2ZjIzMWJjYzg0YmUwMDgwODcwZmRkZWI3ZTFhYjZiMjFlZTYxMzdhNmU0NWM0NDM1ZDM4OTY1MzI3Yzk5OTdmODc0ZTUwZmYwNWFhMzhkY2ZlMDg4NWM0YzlhZGI1MTEzZGMzNmY5OGIxOTA4ODg2N2ZhM2YyNjNkYzciLCJpdiI6ImJmODRlNzc1Njk4NzYwOTI1ZjY1ZDljMzRiNDM5OGZlMzE5ODEwYmRhM2IzMDY1YyJ9"
+        },
+        "id": "YY0WhC0zu"
+    },
+    "targetConnection": {
+        "name": "resize_image_dog",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjkwNzMzYmI5NDE4MWUxNzUzMWFlN2I2OTRlYzFmYzdhZDBjYzJkMmJhYWVkNTI5MTQ2MWEwNDlmMjI2YTAwNjk2NzUzMmMzNmRhNmQ4OTUxNjM2MWRiNzJjNGE3MWQzZDg4ODU5ZjYwMTBkM2Y4NTY5NGY2NzU1ODdkNjJjZTEiLCJpdiI6ImI2MjMxNDg2NDE2YTc5YzQ5ZjFkNDJkZmJmZDc4ODVkNTk5MmE1M2FiMWVkMWE4OSJ9"
+        },
+        "id": "YY0WhC0zu"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "dog",
+            "color": "#5db300"
+        }
+    ],
+    "id": "9ofENnIna",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "pascalVOC",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzQ0YTJmNTkyN2FjNDc0MzVlODQ5YjI0ZGNlOTQzZWI2ODZjNTVhZTQ5NWVjNTE4MjhmZWYyZGQ1MWRjZjM0MDlkMDk2MmQzOGQ5M2MxNGEwZjMwZDI4YzkzNDA2NmRhOTMwZDMxYzE1MTdjNDQ4OWYxZjM5OGVmY2JlZjVlMWMxZDc0ZTkwZjY1ODI4NDRlMzkwY2U2M2MzNTVkZjUzZiIsIml2IjoiNTQwMzBiMGZhYWU3ZjdjNDYyMmQyZDg2YWYzNWZmMGZhNjgxOWE2NjNiNmQzODQ3In0="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "872d5ab6db1c3690b27b4a57b5b3d75e",
+    "assets": {
+        "a8bb0adc658aaa342e01a3843b900955": {
+            "format": "jpg",
+            "id": "a8bb0adc658aaa342e01a3843b900955",
+            "name": "000001.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000001.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5eb0a7dee46aad84a292e17cbcd34531": {
+            "format": "jpg",
+            "id": "5eb0a7dee46aad84a292e17cbcd34531",
+            "name": "000002.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000002.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86e5dd373425187d626be7f56be47684": {
+            "format": "jpg",
+            "id": "86e5dd373425187d626be7f56be47684",
+            "name": "000003.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000003.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6feeeb055855f4f918c43cc1b830fa29": {
+            "format": "jpg",
+            "id": "6feeeb055855f4f918c43cc1b830fa29",
+            "name": "000004.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000004.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff1e8cc21e119d30a43b052ec7a439b3": {
+            "format": "jpg",
+            "id": "ff1e8cc21e119d30a43b052ec7a439b3",
+            "name": "000005.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000005.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e756ddb9e801334f8eedf4f266c2fdf": {
+            "format": "jpg",
+            "id": "4e756ddb9e801334f8eedf4f266c2fdf",
+            "name": "000006.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000006.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca52571becf9ee98100ce6d636a70c20": {
+            "format": "jpg",
+            "id": "ca52571becf9ee98100ce6d636a70c20",
+            "name": "000007.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000007.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99b054ae16699c92b276f4219f523b26": {
+            "format": "jpg",
+            "id": "99b054ae16699c92b276f4219f523b26",
+            "name": "000008.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000008.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7edfef9556ee54a7438343761e643331": {
+            "format": "jpg",
+            "id": "7edfef9556ee54a7438343761e643331",
+            "name": "000009.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000009.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "872d5ab6db1c3690b27b4a57b5b3d75e": {
+            "format": "jpg",
+            "id": "872d5ab6db1c3690b27b4a57b5b3d75e",
+            "name": "000010.jpg",
+            "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000010.jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

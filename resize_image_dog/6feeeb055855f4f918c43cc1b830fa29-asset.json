@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6feeeb055855f4f918c43cc1b830fa29",
+        "name": "000004.jpg",
+        "path": "file:/Users/cyberbrain/Desktop/resize_image_dog/000004.jpg",
+        "size": {
+            "width": 300,
+            "height": 300
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "fjDsqLopC",
+            "type": "RECTANGLE",
+            "tags": [
+                "dog"
+            ],
+            "boundingBox": {
+                "height": 153.11468337334935,
+                "width": 248.30807322929172,
+                "left": 17.766637905162067,
+                "top": 0
+            },
+            "points": [
+                {
+                    "x": 17.766637905162067,
+                    "y": 0
+                },
+                {
+                    "x": 266.0747111344538,
+                    "y": 0
+                },
+                {
+                    "x": 266.0747111344538,
+                    "y": 153.11468337334935
+                },
+                {
+                    "x": 17.766637905162067,
+                    "y": 153.11468337334935
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

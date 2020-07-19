@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>000006.jpg</filename>
+    <path>resize_image_cat-PascalVOC-export/Annotations/000006.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>6.903230042016818</ymin>
+        <xmax>93.1633590936375</xmax>
+        <ymax>158.44228316326542</ymax>
+    </bndbox>
+</object><object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>97.05038265306123</xmin>
+        <ymin>19.259266206482593</ymin>
+        <xmax>153.93626200480193</xmax>
+        <ymax>159.48473139255702</ymax>
+    </bndbox>
+</object><object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>163.2479554321729</xmin>
+        <ymin>7.298544417767107</ymin>
+        <xmax>230.1264255702281</xmax>
+        <ymax>165.7886592136855</ymax>
+    </bndbox>
+</object><object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>252.15711284513807</xmin>
+        <ymin>5.794661614645858</ymin>
+        <xmax>300</xmax>
+        <ymax>162.04231692677072</ymax>
+    </bndbox>
+</object>
+</annotation>
